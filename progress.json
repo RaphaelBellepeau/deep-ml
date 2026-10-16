@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:49:12.425Z",
+  "generated_at": "2026-10-30T13:49:14.854Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -209,6 +209,78 @@
       "last_pushed_at": "2026-10-15T10:42:28.913Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-16T09:21:34.333Z",
+      "last_pushed_at": "2026-10-16T09:21:34.333Z",
+      "language": "python",
+      "lines": 25
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-16T09:26:36.554Z",
+      "last_pushed_at": "2026-10-16T09:26:36.554Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-16T09:48:32.830Z",
+      "last_pushed_at": "2026-10-16T09:48:32.830Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-10-16T09:59:15.388Z",
+      "last_pushed_at": "2026-10-16T09:59:15.388Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-10-16T13:05:38.004Z",
+      "last_pushed_at": "2026-10-16T13:05:38.004Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-10-16T13:20:15.752Z",
+      "last_pushed_at": "2026-10-16T13:20:15.752Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
