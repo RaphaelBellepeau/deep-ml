@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:49:17.155Z",
+  "generated_at": "2026-10-30T13:49:19.412Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -386,6 +386,32 @@
       "last_pushed_at": "2026-10-20T14:05:30.583Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-10-22T09:59:05.054Z",
+      "last_pushed_at": "2026-10-22T09:59:05.054Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-10-22T10:39:26.592Z",
+      "last_pushed_at": "2026-10-22T10:39:26.592Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
