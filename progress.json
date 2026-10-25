@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:49:21.497Z",
+  "generated_at": "2026-10-30T13:49:23.726Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -517,6 +517,32 @@
       "path": "problems/0215-partial-derivatives-of-multivariable-functions",
       "first_solved_at": "2026-10-23T15:57:00.044Z",
       "last_pushed_at": "2026-10-23T15:57:00.044Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-10-25T01:24:49.719Z",
+      "last_pushed_at": "2026-10-25T01:24:49.719Z",
+      "language": "python",
+      "lines": 61
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-10-25T15:01:59.229Z",
+      "last_pushed_at": "2026-10-25T15:01:59.229Z",
       "language": "python",
       "lines": 15
     }
