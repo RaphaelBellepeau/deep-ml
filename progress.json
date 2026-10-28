@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:49:28.071Z",
+  "generated_at": "2026-10-30T13:49:30.210Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -649,6 +649,139 @@
       "last_pushed_at": "2026-10-27T15:45:36.027Z",
       "language": "python",
       "lines": 13
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-10-28T09:33:10.268Z",
+      "last_pushed_at": "2026-10-28T09:33:10.268Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-10-28T09:41:42.081Z",
+      "last_pushed_at": "2026-10-28T09:41:42.081Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-10-28T09:45:42.404Z",
+      "last_pushed_at": "2026-10-28T09:45:42.404Z"
+    },
+    "math:36": {
+      "kind": "math",
+      "id": "36",
+      "title": "Multivariate Gaussians",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/36",
+      "path": "math/0036-multivariate-gaussians",
+      "first_solved_at": "2026-10-28T10:47:17.966Z",
+      "last_pushed_at": "2026-10-28T10:47:17.966Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-10-28T10:52:54.040Z",
+      "last_pushed_at": "2026-10-28T10:52:54.040Z"
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-10-28T11:20:53.107Z",
+      "last_pushed_at": "2026-10-28T11:20:53.107Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-10-28T14:32:19.734Z",
+      "last_pushed_at": "2026-10-28T14:32:19.734Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-10-28T14:59:18.940Z",
+      "last_pushed_at": "2026-10-28T14:59:18.940Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-10-28T15:04:32.073Z",
+      "last_pushed_at": "2026-10-28T15:04:32.073Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-10-28T15:14:07.092Z",
+      "last_pushed_at": "2026-10-28T15:14:07.092Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-10-28T15:18:41.980Z",
+      "last_pushed_at": "2026-10-28T15:18:41.980Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
