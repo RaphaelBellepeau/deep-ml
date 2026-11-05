@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 44 problems · 0 labs · 34 math
+**79** solved · 45 problems · 0 labs · 34 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-10-28 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-10-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-26 | [solution](problems/0219-derivative-of-softmax) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-05 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-23 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-30 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-22 | [solution](problems/0329-matrix-rank) |
