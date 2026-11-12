@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:12:55.623Z",
+  "generated_at": "2026-11-12T14:22:16.324Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -983,6 +983,19 @@
       "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
       "first_solved_at": "2026-11-12T14:12:54.817Z",
       "last_pushed_at": "2026-11-12T14:12:54.817Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-11-12T14:22:15.413Z",
+      "last_pushed_at": "2026-11-12T14:22:15.413Z",
       "language": "python",
       "lines": 4
     }
